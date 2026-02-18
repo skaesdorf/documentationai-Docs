@@ -40,6 +40,11 @@
             "icon": "layers",
             "pages": [
               {
+                "title": "asd",
+                "path": "asd",
+                "icon": "alarm-clock-plus"
+              },
+              {
                 "title": "Images",
                 "path": "components/images",
                 "icon": "image"
